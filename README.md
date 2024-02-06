@@ -43,6 +43,7 @@ git pull --rebase origin main
 ## Branching
 - Create branch: `git checkout -b <branch>`
 - Check local and remote branches: `git branch -a`
+- Check only local branches: `git branch`
 - Checkout branch: `git checkout <branch>`
 - Fetch other branch from remote: `git fetch`
 - Pull remote changes on a branch: `git pull --rebase origin <branch>`
